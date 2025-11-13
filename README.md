@@ -84,15 +84,17 @@
 </head>
 <body>
   <header>
-    <div class="wrap">
-      <h1 class="title">Broken Strings Band</h1>
-      <p class="tagline">70’s • 80’s • 90’s • Current &mdash; Rock, Country &amp; Pop. Requests encouraged.</p>
-      <div class="cta-row">
-        <a class="btn" href="#tip">Tip / Support</a>
-        <a class="btn" href="#request">Request a Song</a>
-        <a class="btn" href="#shows">Upcoming Shows</a>
-      </div>
-    </div>
+    <div class="card two">
+  <h2 class="section-title">QR Code</h2>
+  <div class="qr" style="background:none; border:0; padding:0;">
+    <img src="broken_strings_band_qr.png" 
+         alt="Scan to request a song or leave a tip"
+         style="display:block; width:220px; max-width:60%; margin:0 auto; border:8px solid #27272a; border-radius:12px;">
+  </div>
+  <p class="small muted" style="margin-top:8px; text-align:center;">
+    Scan to Request a Song or Leave a Tip 💛
+  </p>
+</div>
   </header>
 
   <main class="wrap">
